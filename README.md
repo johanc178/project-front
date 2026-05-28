@@ -61,5 +61,5 @@ git commit -m "feat: descripción del cambio"
 git push -u origin feature/mi-cambio
 ```
 
-Incluye en los commits mensajes descriptivos para facilitar la revisión.
+
 

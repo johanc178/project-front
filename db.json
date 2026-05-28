@@ -5,7 +5,14 @@
       "titulo": "Tarea de ejemplo",
       "descripcion": "Esta es una tarea de ejemplo",
       "fechaVencimiento": "2026-06-01",
-      "estado": "Pendiente"
+      "estado": "En Progreso"
+    },
+    {
+      "titulo": "hola",
+      "descripcion": "tarea para el vienres",
+      "fechaVencimiento": "2026-05-18",
+      "estado": "Pendiente",
+      "id": 2
     }
   ]
 }
