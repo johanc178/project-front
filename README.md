@@ -46,5 +46,20 @@ Flujo Git recomendado (GitFlow resumido)
 - Crear ramas de características desde `develop`: `feature/nombre-descriptivo`.
 - Mensajes de commit claros y en español: `feat: añadir formulario de tareas`, `fix: corregir validación de login`.
 
-Si quieres, puedo preparar los commits iniciales y las ramas siguiendo este flujo.
+Ejemplo rápido para crear la rama `develop` y una feature:
+
+```bash
+# crear y cambiar a develop (si no existe)
+git checkout -b develop
+
+# crear una rama de feature desde develop
+git checkout -b feature/mi-cambio develop
+
+# trabajar, commitear y subir
+git add .
+git commit -m "feat: descripción del cambio"
+git push -u origin feature/mi-cambio
+```
+
+Incluye en los commits mensajes descriptivos para facilitar la revisión.
 

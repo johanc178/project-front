@@ -31,4 +31,4 @@ git push -u origin feature/login-improvements
 - `chore: actualizar dependencias`
 - `docs: actualizar README con instrucciones de ejecución`
 
-Si quieres, puedo crear las ramas y los commits iniciales en tu repositorio local.
+Consejo: escribe mensajes claros y en presente, por ejemplo `feat: añadir formulario de tarea`.
