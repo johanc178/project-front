@@ -1,0 +1,11 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "titulo": "Tarea de ejemplo",
+      "descripcion": "Esta es una tarea de ejemplo",
+      "fechaVencimiento": "2026-06-01",
+      "estado": "Pendiente"
+    }
+  ]
+}
